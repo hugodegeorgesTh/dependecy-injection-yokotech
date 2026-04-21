@@ -1,4 +1,4 @@
-// ❌ AVANT — couplage fort, intestable, inflexible
+// AVANT — couplage fort, intestable, inflexible
 
 type Order = { id: string; email: string; total: number };
 
